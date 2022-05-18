@@ -34,11 +34,11 @@
       //TODO
   };
   
-  // part 2 use the method from above to remove odd numbers from
+  // part 2 use the method from above to remove odd numbers from array
   /**
    * removes odd numbers from array
    * @param  {[number]} arr: an array of numbers 
-   * @return {[number]} a NEW array with only even number
+   * @return {[number]} a NEW array with only even numbers
    */
   const filterEvens = (arr) => {
     //TODO
