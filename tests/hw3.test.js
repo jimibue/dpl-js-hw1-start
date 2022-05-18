@@ -34,7 +34,7 @@ describe("filter evens from an array of numbers", () => {
   });
 
   // test  filter of even numbers
-  it("test doubleArray", () => {
+  it("test filterEvens", () => {
     let arr = [1, 2, 3, 4];
     let returnValue1 = filterEvens(arr);
     let returnValue2 = filterEvens([10, 20, 31]);
